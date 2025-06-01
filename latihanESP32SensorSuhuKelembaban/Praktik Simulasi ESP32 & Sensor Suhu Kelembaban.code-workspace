@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../Praktik Simulasi ESP32 & Sensor Suhu Kelembaban"
+		},
+		{
+			"name": "LatihanESP32SensorSuhuKelembaban",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
